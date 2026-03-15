@@ -1,11 +1,12 @@
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Re-ljk.MyTodoApp)
-![GitHub stars](https://img.shields.io/github/stars/Re-ljk/MyTodoApp)
-![GitHub forks](https://img.shields.io/github/forks/Re-ljk/MyTodoApp)
-![GitHub license](https://img.shields.io/github/license/Re-ljk/MyTodoApp)
+
 
 # 📝 MyTodoApp
 
 MyTodoApp 是一款基于 **Python** 与 **CustomTkinter** 构建的现代化 Windows 桌面待办事项管理工具。它融合了极简主义设计与高效的交互逻辑，支持精准的定时提醒、静默后台运行及开机自启，旨在为您提供流畅、无打扰的任务管理体验。
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Re-ljk.MyTodoApp)
+![GitHub stars](https://img.shields.io/github/stars/Re-ljk/MyTodoApp)
+![GitHub forks](https://img.shields.io/github/forks/Re-ljk/MyTodoApp)
+![GitHub license](https://img.shields.io/github/license/Re-ljk/MyTodoApp)
 
 ![应用主界面](images/figure.png)
 
